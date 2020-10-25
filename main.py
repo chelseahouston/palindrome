@@ -1,7 +1,7 @@
 # PROGRAM TO CHECK IF WORD IS PALINDROME
 
 # WORD INPUT
-word = input(str("Enter a word to see if it's a Palindrome: "))
+word = input(str("Enter a word or number to see if it's a Palindrome: "))
 
 # IS WORD SAME BACKWARDS AS FORWARDS:
 # Make copy in reverse order
